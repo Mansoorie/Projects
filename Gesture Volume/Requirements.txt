@@ -1,0 +1,3 @@
+Pycaw
+mediapipe
+opencv
